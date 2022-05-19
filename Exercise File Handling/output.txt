@@ -1,0 +1,4 @@
+C:\Users\Georg\AppData\Local\Microsoft\WindowsApps\python3.9.exe "C:/Users/Georg/PYTHON ADVANCED/Exercise File Handling/0.2.py"
+Line 1: -I was quick to judge him, but it wasn't his fault. (37)(4)
+Line 2: -Is this some kind of joke?! Is it? (24)(4)
+Line 3: -Quick, hide here. It is safer. (22)(4)
